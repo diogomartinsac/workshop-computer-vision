@@ -1,2 +1,2 @@
 # workshop-computer-vision
-Workshop - Computer Vision
+Palestra sobre Sistemas de Visão: definição, características e aplicações.
