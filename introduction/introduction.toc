@@ -1,0 +1,9 @@
+\babel@toc {portuguese}{}
+\beamer@sectionintoc {1}{O gap semântico}{2}{0}{1}
+\beamer@sectionintoc {2}{Visão Computacional}{12}{0}{2}
+\beamer@subsectionintoc {2}{1}{Para além de pixels}{13}{0}{2}
+\beamer@subsectionintoc {2}{2}{Reconhecimento em Visão Computacional}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Técnicas envolvidas}{27}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{1}{Abordagem tradicional}{34}{0}{2}
+\beamer@subsubsectionintoc {2}{3}{2}{Abordagem com Deep Learning}{35}{0}{2}
+\beamer@subsectionintoc {2}{4}{Aplicações}{36}{0}{2}
